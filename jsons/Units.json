@@ -1,18 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Nova Roma",
-		"replaces": "Machine Gun",
+		"name": "Balistleo",
+		"unitType": "Siege",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 16,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Physics",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"attackSound": "throw"
 	},
  {
 		"name": "Citizen",
