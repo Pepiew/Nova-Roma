@@ -3,7 +3,7 @@
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Nova Roma",
-		"cost": 480,
+		"cost": 400,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
