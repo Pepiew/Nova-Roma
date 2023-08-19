@@ -6,12 +6,12 @@
 		"startBias": ["Plain"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We come in peace! Or not...",
+		"startIntroPart2": "This is a test Civilacation.",
 		
 		"declaringWar": "Resistance is futile, soon enough you will be a part of the Empire.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible?",
+		"attacked": "This is Futile.",
+		"defeated": "How is it possible? Rome was never meant to fall!",
 		"introduction": "Hello there citizen.",
 		
 		"neutralHello": "How are you doing?",
