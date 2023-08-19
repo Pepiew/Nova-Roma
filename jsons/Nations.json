@@ -3,7 +3,7 @@
 		"name": "Nova Roma",
 		"leaderName": "Ceasear",
 		"adjective": ["roman"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace! Or not...",
