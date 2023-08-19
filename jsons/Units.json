@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+ {
+		"name": "Citizen",
+		"unitType": "Civilian",
+ 	"uniqueTo": "Nova Roma",
+  "replaces": "Worker",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 60
 	}
-]
+ ]
