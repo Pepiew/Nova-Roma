@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Balistleo",
+  "uniqueTo": "Nova Roma",
+  "replaces": "Trebuchet",
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 16,
