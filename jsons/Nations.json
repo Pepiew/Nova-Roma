@@ -31,9 +31,9 @@
 		"innerColor": [230,230,250],
   "uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital","[5] Free Social Policies","May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],"[+2 Science, +2 Food, +2 Gold, +2 Science, +2 Culture, +2 Happiness, +2 Faith] [in capital]"
  
-		"cities": ["Rome Prime","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Rome Prime","Throczan","Chovex","Imphet","Omphead","Grecoks","Vrelzieks","Vronens","Aerlae",
+			"Phulnoith","Creved","Xirqen","Gax","Threqals","Bhilmuk","Mazea","Zomirs","Drorkrex","Honkrath",
+			"Zulgra","Vahars","Crindith","Raavraes","Bhoknais","Qho'Qru","Dateatz","Elnad","Izien","Qol'Ell",
+			"Dhihien","Naquiel","Ugneon","Straquks","Nulptr","Ohfahl"]
 	}
 ]
