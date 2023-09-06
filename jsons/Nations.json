@@ -29,7 +29,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [230,230,250],
-  "uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital","[5] Free Social Policies"],
+  "uniques": ["Receive a free Social Policy each time you complete a Factory, Public School or Hospital in the capital","[5] Free Social Policies","May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
  
 		"cities": ["Rome Prime","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
