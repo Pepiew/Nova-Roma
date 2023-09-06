@@ -20,7 +20,7 @@
 		"unitType": "Civilian",
  	"uniqueTo": "Nova Roma",
   "replaces": "Worker",
-		"movement": 3,
+		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 60
 	}
